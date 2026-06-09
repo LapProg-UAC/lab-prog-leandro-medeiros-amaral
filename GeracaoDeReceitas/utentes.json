@@ -1,11 +1,17 @@
 [
   {
-    "numero_utente": "860507",
-    "nome": "Beatriz Costa",
+    "numero_utente": "724571",
+    "nome": "Beatriz Pereira",
     "medicamentos": [
-      "Cloranfenicol",
-      "Guanetidina",
-      "Fenitoína"
+      "Naproxeno",
+      "Colestiramina",
+      "Digoxina",
+      "Bloqueadores adrenérgicos beta"
     ]
+  },
+  {
+    "numero_utente": "854345",
+    "nome": "Rafael Martins",
+    "medicamentos": []
   }
 ]
